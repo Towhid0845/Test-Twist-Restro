@@ -1,3 +1,7 @@
+### You will learn about the core basics of React if you go through this beginer project called 'Test & Twest Restro'
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
